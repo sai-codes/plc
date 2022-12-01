@@ -13,10 +13,12 @@
 * DIV
 
 Görevler
-[X] Terminal Bağlantıları
-[] Test verileri
-[X] ADC
+- [X] Terminal Bağlantıları
+- [] Test verileri
+- [X] ADC
 
-![DELTA] (SX2.JPG)
+![DELTA](SX2.JPG)
+
+> Alındı Yapılmıştır.
 
 [PLC Program1] (http://github.com/sai-codes)
