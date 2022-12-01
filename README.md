@@ -36,5 +36,5 @@ Görevler
   OUT Y0
 ```
 
-M1013 Dahili kontak için 'Saniyede 1 pals' verir.
+M1013 Dahili kontak için `Saniyede 1 pals` verir.
 
