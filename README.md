@@ -23,6 +23,7 @@ Görevler
 
 [PLC Program1] (http://github.com/sai-codes)
 
-| Ad | Soyad |
+| X | Y |
 |--|--|
-| Kemal | Mutlu |
+| Buton1 | Motor1 |
+| Buton1 | Motor1 |
