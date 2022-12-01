@@ -35,3 +35,6 @@ Görevler
      LDI X1
   OUT Y0
 ```
+
+M1013 Dahili kontak için 'Saniyede 1 pals' verir.
+
