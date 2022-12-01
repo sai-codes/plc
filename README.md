@@ -1,9 +1,5 @@
 
-<span style="color:red">
-    Text_content
-</span>
-
-
+<span style="color: red;">text</span>.
 
 
 ---
