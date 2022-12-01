@@ -14,7 +14,7 @@
 
 Görevler
 - [X] Terminal Bağlantıları
-- [] Test verileri
+- [ ] Test verileri
 - [X] ADC
 
 ![DELTA](SX2.JPG)
