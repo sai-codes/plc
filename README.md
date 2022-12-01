@@ -1,5 +1,6 @@
-# plc
-Delta  PLC Uygulama  Notları
+###Delta  PLC Uygulama  Notları
 
 
-DVP SERİSİ
+|---veri1------|----veri2---------|
+|---veri1------|----veri2---------|
+|---veri1------|----veri2---------|
