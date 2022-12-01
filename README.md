@@ -1,7 +1,7 @@
 
 <span style="color:red">
     Text_content
-</style>
+</span>
 
 
 
