@@ -1,4 +1,5 @@
-
+<html>
+  <body>
 <h4 style="color:red;">HTML ve CSS satır içi css kullanımı.</h4>
 
 ---
@@ -89,4 +90,6 @@ B --> D{TEST}
 C --> D
 ```
 
-
+</body>
+</html>
+  
