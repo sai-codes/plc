@@ -10,6 +10,7 @@ yellow { color: yellow }
 ---
 ==MARKDOWN== KULLANIMI
 
+H~2~O
 ---
 
 ### Delta  PLC Uygulama  Notları
