@@ -27,3 +27,11 @@ Görevler
 |--|--|
 | Buton1 | Motor 1 |
 | Buton2 | Valf 1 |
+
+#### Kod Elemanı   
+
+```
+  LD XO
+     LDI X1
+  OUT Y0
+```
