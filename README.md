@@ -38,3 +38,7 @@ Görevler
 
 M1013 Dahili kontak için `Saniyede 1 pals` verir.
 
+
+<div style="color: red; text-align: center;">
+  
+  Renklendirmek için
