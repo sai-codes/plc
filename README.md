@@ -19,6 +19,8 @@ lib_dir = /Users/milos/Work/arduino/esp8266-2.0.0/libraries
 platform = espressif
 framework = arduino
 board = esp01_1m
+[print]
+test1=vbcrlf
 ```
 ---
 
