@@ -1,6 +1,17 @@
 <html>
   <body>
-<h4 style="color:red;">HTML ve CSS satır içi css kullanımı.</h4>
+<head>
+    <style>
+        body {background-color: red;}
+        h1   {color: yellow;}
+        p    {color: white;}
+    </style>
+</head>
+    
+    
+    
+    
+    <h4 style="color:red;">HTML ve CSS satır içi css kullanımı.</h4>
 
 ---
 ==MARKDOWN== KULLANIMI
