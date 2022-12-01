@@ -1,11 +1,5 @@
 
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
-
-<red> red color markdown text</red>
-<yellow> red color markdown text</yellow>
+<h4 style="color:red;">HTML ve CSS satır içi css kullanımı.</h4>
 
 ---
 ==MARKDOWN== KULLANIMI
