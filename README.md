@@ -25,5 +25,5 @@ Görevler
 
 | X | Y |
 |--|--|
-| Buton1 | Motor1 |
-| Buton1 | Motor1 |
+| Buton1 | Motor 1 |
+| Buton2 | Valf 1 |
