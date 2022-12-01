@@ -1,3 +1,13 @@
+
+<span style="color:red">
+    Text_content
+</style>
+
+
+
+
+---
+
 ### Delta  PLC Uygulama  Notları
 ---
 **Örnek Uygulama için Tıklayın**
@@ -70,6 +80,3 @@ C --> D
 ```
 
 
-<span style="color:red">
-    Text_content
-</style>
