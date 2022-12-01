@@ -59,3 +59,12 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+
+```mermaid
+graph LR
+A[PLC] -- COMM2: --> B((HDMI))
+A --> C(RS485)
+B --> D{TEST}
+C --> D
+```
