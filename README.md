@@ -1,12 +1,16 @@
+<!DOCTYPE html>
 <html>
-  <body>
 <head>
     <style>
+        body {background-color: red;}
         h1   {color: yellow;}
         p    {color: white;}
     </style>
 </head>
-    
+<body>
+<h1>H1 etiketinin rengi sarı olarak ayarlandı.</h1>
+<p>P etiketinin rengi beyaz olarak ayarlandı</p>
+
      
     
     <h1> testing css.</h1>
