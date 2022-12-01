@@ -10,7 +10,16 @@ yellow { color: yellow }
 ---
 ==MARKDOWN== KULLANIMI
 
-H~2~O
+### `platformio.ini`
+```ini
+[platformio]
+lib_dir = /Users/milos/Work/arduino/esp8266-2.0.0/libraries
+
+[env:esp01_1m]
+platform = espressif
+framework = arduino
+board = esp01_1m
+```
 ---
 
 ### Delta  PLC Uygulama  Notları
