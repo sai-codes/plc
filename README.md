@@ -68,3 +68,8 @@ A --> C(RS485)
 B --> D{TEST}
 C --> D
 ```
+
+
+<span style="color:red">
+    Text_content
+</style>
